@@ -1,0 +1,7 @@
+utilities/AddElementTextToList.class
+pages/BooksPage.class
+pages/HomePage.class
+utilities/ConfigReader.class
+utilities/DropdownSelector.class
+pages/LoginPage.class
+qafactory/DriverFactory.class
